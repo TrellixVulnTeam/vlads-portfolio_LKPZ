@@ -5,7 +5,7 @@ return(
     <div>
         <h3>Contact us</h3>
         <form action="/action_page.php">
-            <label for="fname">Nameame:</label>
+            <label for="fname">Name:</label>
             <input type="text" id="fname" name="fname"></input><br></br>
             <label for="lname">Email:</label>
             <input type="text" id="lname" name="lname"></input><br></br>

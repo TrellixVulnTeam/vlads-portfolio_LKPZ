@@ -1,3 +1,6 @@
 .about-card {
     background-color: #4dd2ff;
+    border: black;
+    padding: 20px;
+    margin-right: 40%;
 }
