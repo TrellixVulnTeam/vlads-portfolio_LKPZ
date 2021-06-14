@@ -6,17 +6,17 @@ const About = () => {
         <div class="container">
             <div class="row">
                 <div class="col-sm">
-                    I row I column
+                    About I row 
                 </div>
             </div>
             <div class='row'>
                 <div class='col-sm'>
-                    II row I column
+                    ABout II row
                 </div>
             </div>
             <div class='row'>
                 <div class='col-sm'>
-                    III row I column
+                    About III row
                 </div>
             </div>
         </div>
