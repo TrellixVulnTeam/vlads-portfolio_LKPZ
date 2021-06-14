@@ -4,7 +4,7 @@ const About = () => {
 
 return(
     <header>
-        <h1>Hello World</h1>
+        <h1>THIS IS MY ABOUT ME PAGE!</h1>
     </header>
 )
 }
