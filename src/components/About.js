@@ -9,7 +9,7 @@ const About = () => {
                     About I row 
                 </div>
             </div>
-            <div class='row'>
+            <div class='row about-card'>
                 <div class='col-sm'>
                     ABout II row
                 </div>
