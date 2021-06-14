@@ -1,5 +1,4 @@
 import React from 'react';
-import { Route, Switch } from 'react-router-dom'
 import Nav from './components/Nav';
 import Banner from './components/Banner';
 import About from './components/About';
