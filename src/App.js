@@ -11,12 +11,16 @@ export default function App() {
   return (
     <div>
       <Nav />
-      <Switch>
-        <Route exact path="/" component={Banner} />
+      {/* <Switch> */}
+        <Banner />
+        <Portfolio />
+        <About />
+        <Contact />
+        {/* <Route exact path="/" component={Banner} />
         <Route path="/portfolio" component={Portfolio} />
         <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} />
-      </Switch>
+      </Switch> */}
     </div>
   );
 }
