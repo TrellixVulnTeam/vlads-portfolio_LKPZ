@@ -1,6 +1,4 @@
-.about-card {
-    background-color: #4dd2ff;
-    border: black;
-    padding: 20px;
-    margin-right: 40%;
+.about-container{
+    background-color: bisque;
+    padding: 300px;
 }

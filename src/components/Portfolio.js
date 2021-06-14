@@ -2,20 +2,29 @@ import React from 'react';
 
 const Portfolio = () => {
 return(
-    <div className="container">
+    <div className="container portfolio-container">
             <div className="row">
                 <div className="col-sm">
-                    Portfolio I row
+                </div>
+                <div className="col-sm">
+                </div>
+                <div className="col-sm">
                 </div>
             </div>
-            <div className='row'>
-                <div className='col-sm'>
-                    Portfolio II row
+            <div className="row">
+                <div className="col-sm">
+                </div>
+                <div className="col-sm">
+                </div>
+                <div className="col-sm">
                 </div>
             </div>
-            <div className='row'>
-                <div className='col-sm'>
-                    Portfolio III row
+            <div className="row">
+                <div className="col-sm">
+                </div>
+                <div className="col-sm">
+                </div>
+                <div className="col-sm">
                 </div>
             </div>
         </div>

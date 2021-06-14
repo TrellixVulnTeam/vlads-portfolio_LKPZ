@@ -2,23 +2,14 @@ import React from 'react';
 
 const Banner = () => {
 return(
-    <div className="container">
+    <div className="container banner-container">
             <div className="row">
                 <div className="col-sm">
-                    Banner I row
+                    <h1>Vladimir Zizic</h1>
+                    <h5>Web Developer</h5>
                 </div>
             </div>
-            <div className='row'>
-                <div className='col-sm'>
-                    Banner II row
-                </div>
             </div>
-            <div className='row'>
-                <div className='col-sm'>
-                    Banner III row
-                </div>
-            </div>
-        </div>
 )
 }
 
