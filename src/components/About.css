@@ -2,3 +2,13 @@
     background-color: bisque;
     padding: 300px;
 }
+
+.about-col{
+    padding-top: 60px;
+    padding-right: 60px;
+}
+
+.about-card{
+    border: darkslategray;
+    border-radius: 50%;
+}
